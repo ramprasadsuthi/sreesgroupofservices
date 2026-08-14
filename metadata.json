@@ -1,0 +1,6 @@
+{
+  "name": "Srees Group - Security Systems & Surveillance Solutions",
+  "description": "Enterprise-grade security systems, CCTV surveillance, smart access control, and 24/7 monitoring solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
